@@ -1,7 +1,7 @@
 # Walmart_Sales_Analysis
 
 ## Project Motivation
-### This project focuses on retail analysis using Walmart data, aiming to answer key questions related to the dataset. We have performed a comprehensive analysis to derive insights and conclusions that can inform business decisions and strategies.
+This project focuses on retail analysis using Walmart data, aiming to answer key questions related to the dataset. We have performed a comprehensive analysis to derive insights and conclusions that can inform business decisions and strategies.
 ### Key Questions Addressed
 
 1. Which stores have the maximum sales?
